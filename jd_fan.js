@@ -9,7 +9,7 @@ const notify = $.isNode() ? require('./sendNotify') : '';
 let cookiesArr = [];
 
 const activityList = [
-    {'id':'1c97c7b2dcd440c9addfe6fe1ec444df','endTime':1654012799000},//2022-04-29---2022-05-31 微软京东自营官方旗舰店
+    {'id':'f1c859ad23124013a17cfd8e8791f160','endTime':1656626274000},//
 ]
 
 if ($.isNode()) {
